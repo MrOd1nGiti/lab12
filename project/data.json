@@ -1,0 +1,4 @@
+[
+  {"id": 1, "title": "Основы Python", "category": "учёба", "amount": 4, "completed": false},
+  {"id": 2, "title": "Функции и модули", "category": "учёба", "amount": 2, "completed": true}
+]
